@@ -1,0 +1,8 @@
+li{list-style-type: none;font-size: 20px;padding: 10px;}
+button{border: none;background: transparent;font-size: 20px;color:white}
+
+.parent{background-color: rgb(30, 30, 52);color:white;width: 250px;padding: 10px;height: 100vh;
+position: absolute;left: 0px;padding: 30px;padding-top: 100px;overflow-y: auto;}
+.parent::-webkit-scrollbar {
+  display: none;
+}

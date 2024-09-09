@@ -1,0 +1,7 @@
+.dark{width: 100vw;height: 100vh;background-color: black;color: white;}
+.dark button{color: black;background-color: white;font-size: 40px;border-radius: 5px;}
+.dark p{color: white;font-size: 40px;}
+
+.light{width: 100vw;height: 100vh;background-color: white;color: black;}
+.light button{color: white;background-color: black;font-size: 40px;border-radius: 5px;}
+.light p{color: black;font-size: 40px;}

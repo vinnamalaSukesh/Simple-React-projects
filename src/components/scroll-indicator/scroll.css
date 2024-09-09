@@ -1,0 +1,5 @@
+#full{width: 100vw;height: 97vh;overflow-x: hidden;flex-direction: column;}
+
+#scrolled{background-color: green;position: fixed;top: 0px;left: 0px;height: 10px;}
+#unscrolled{background-color: red;width: 100%;position: fixed;top: 0px;left: 0px;height: 10px;}
+button{font-size: 20px;background-color: black;color: white;padding: 3px;}

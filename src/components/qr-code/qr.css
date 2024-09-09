@@ -1,0 +1,5 @@
+button{color: white;border: 1px;border-radius: 2px;background-color: rgb(1, 1, 93);
+font-size: 15px;padding: 2px;margin: 50px;}
+input{font-size: 20px;text-align: center;}
+
+div{display: flex;align-items: center;justify-content: center;flex-direction: column;gap: 50px;}
